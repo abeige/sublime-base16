@@ -1,5 +1,6 @@
 {
 	"name": "sublime-base16",
+	"semanticHighlighting": true,
 	"colors": {
 		"editor.background": "#ffffffff",
 		"editor.foreground": "#545454ff",
@@ -13,7 +14,7 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"foreground": "#b7b7b7ff"
+				"foreground": "#999999ff"
 			}
 		},
 		{
@@ -21,7 +22,7 @@
 			"scope": "comment.block.preprocessor",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#b7b7b7ff"
+				"foreground": "#999999ff"
 			}
 		},
 		{
@@ -32,7 +33,7 @@
 				"string.quoted.docstring"
 			],
 			"settings": {
-				"foreground": "#b7b7b7ff"
+				"foreground": "#999999ff"
 			}
 		},
 		{
@@ -46,7 +47,7 @@
 			"name": "Operators",
 			"scope": "keyword.operator",
 			"settings": {
-				"foreground": "#ba8cafff"
+				"foreground": "#d2322cff"
 			}
 		},
 		{
@@ -56,7 +57,7 @@
 				"storage"
 			],
 			"settings": {
-				"foreground": "#3b96dcff"
+				"foreground": "#ba8cafff"
 			}
 		},
 		{
@@ -84,7 +85,7 @@
 				"storage.type",
 			],
 			"settings": {
-				"foreground": "#3b96dcff",
+				"foreground": "#ba8cafff",
 			}
 		},
 		{
@@ -122,7 +123,7 @@
 				"variable.parameter"
 			],
 			"settings": {
-				"foreground": "#85c0b8ff",
+				"foreground": "#ef9642ff",
 				"fontStyle": "italic"
 			}
 		},
@@ -133,7 +134,7 @@
 				"support.function"
 			],
 			"settings": {
-				"foreground": "#d2322cff"
+				"foreground": "#3b96dcff"
 			}
 		},
 		{
@@ -204,7 +205,7 @@
 			"name": "Punctuation",
 			"scope": "punctuation",
 			"settings": {
-				"foreground": "#b7b7b7ff"
+				"foreground": "#999999ff"
 			}
 		},
 		{
@@ -216,7 +217,7 @@
 				"meta.tag.sgml punctuation.definition.tag.html"
 			],
 			"settings": {
-				"foreground": "#b7b7b7ff"
+				"foreground": "#999999ff"
 			}
 		},
 		{
@@ -278,7 +279,7 @@
 				"support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#ef9642ff"
+				"foreground": "#3b96dcff"
 			}
 		},
 		{
