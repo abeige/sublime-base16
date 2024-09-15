@@ -1,0 +1,21 @@
+{
+  "name": "sublime-base16",
+  "displayName": "sublime-base16",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "sublime-base16",
+        "uiTheme": "vs",
+        "path": "./themes/sublime-base16-color-theme.json"
+      }
+    ]
+  }
+}
