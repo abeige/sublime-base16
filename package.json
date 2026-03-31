@@ -1,21 +1,29 @@
 {
-  "name": "sublime-base16",
-  "displayName": "sublime-base16",
-  "description": "",
-  "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.93.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "sublime-base16",
-        "uiTheme": "vs",
-        "path": "./themes/sublime-base16-color-theme.json"
-      }
-    ]
-  }
+	"name": "sublime-base16",
+	"displayName": "sublime-base16",
+	"description": "Port of the sublime text base16 color scheme",
+	"version": "0.0.1",
+	"publisher": "abeige",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/abeige/sublime-base16"
+	},
+	"author": {
+		"name": "Adam Beigel"
+	},
+	"engines": {
+		"vscode": "^1.93.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "sublime-base16",
+				"uiTheme": "vs",
+				"path": "./themes/sublime-base16-color-theme.json"
+			}
+		]
+	}
 }
