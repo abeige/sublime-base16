@@ -2,7 +2,7 @@
 	"name": "sublime-base16",
 	"displayName": "sublime-base16",
 	"description": "Port of the sublime text base16 color scheme",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"publisher": "abeige",
 	"repository": {
 		"type": "git",
